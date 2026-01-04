@@ -88,5 +88,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## 📬 Contact
-For questions or feedback, please contact Hannah G. Simon at hgsimon2@gmail.com.
+## 👤 Author
+Hannah G. Simon
